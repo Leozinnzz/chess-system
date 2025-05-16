@@ -23,5 +23,9 @@ Projeto desenvolvido em Java com foco na prática de orientação a objetos e l�
 ## Exemplo do Jogo em Execução
 
 ![Captura de tela 2025-04-15 173257](https://github.com/user-attachments/assets/79fc5f42-77c8-413c-876a-2b877c0c8ee3)
- 
 
+![Captura de tela 2025-05-16 155638](https://github.com/user-attachments/assets/b093cee5-be90-459f-b467-c76ed63f0e1a)
+
+![Captura de tela 2025-05-16 155727](https://github.com/user-attachments/assets/799c4cdd-25f7-4296-ace7-394753781cd5)
+
+![Captura de tela 2025-05-16 155944](https://github.com/user-attachments/assets/a97890b8-06ec-4b52-9531-d88cee8f9744)
