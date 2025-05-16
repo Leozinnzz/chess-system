@@ -1,8 +1,5 @@
 # ♟️ Jogo de Xadrez em Java
 
-![Captura de tela 2025-04-15 173257](https://github.com/user-attachments/assets/79fc5f42-77c8-413c-876a-2b877c0c8ee3)
-
-
 Projeto desenvolvido em Java com foco na prática de orientação a objetos e lógica de programação, simulando um jogo de xadrez no terminal.
 
 ## Funcionalidades
@@ -24,5 +21,7 @@ Projeto desenvolvido em Java com foco na prática de orientação a objetos e l�
  **Clone o repositório:**
 
 ## Exemplo do Jogo em Execução
+
+![Captura de tela 2025-04-15 173257](https://github.com/user-attachments/assets/79fc5f42-77c8-413c-876a-2b877c0c8ee3)
  
-![projeto 1](https://github.com/user-attachments/assets/afaa57a2-4fa4-4b4e-baf0-6fa7f60bb93c)
+
